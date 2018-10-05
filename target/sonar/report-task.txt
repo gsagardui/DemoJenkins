@@ -1,0 +1,6 @@
+projectKey=edu.mondragon:MySecondExample
+serverUrl=http://localhost:9000
+serverVersion=7.3.0.15553
+dashboardUrl=http://localhost:9000/dashboard?id=edu.mondragon%3AMySecondExample
+ceTaskId=AWY6MlVSU8aiTSB075ID
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWY6MlVSU8aiTSB075ID
