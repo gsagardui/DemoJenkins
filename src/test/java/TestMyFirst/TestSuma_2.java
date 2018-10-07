@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class TestSuma_2 {
 	  @Test
-	  public void testSuma() {
+	  public void testSuma_2() {
 	    MyFirstMaven tester = new MyFirstMaven();
 	    assertEquals("10 + 5 must be 15", 15, tester.suma(10, 5));
 	  
