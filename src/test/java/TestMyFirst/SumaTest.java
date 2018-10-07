@@ -36,7 +36,7 @@ public class SumaTest {
 	    assertEquals("10 + 5 must be 15", 15, tester.suma(10, 5));
 	  
        }
-	  @Ignore
+	  @Test
 	  public void testSuma_mal() {
 	    MyFirstMaven tester = new MyFirstMaven();
 	    assertEquals("10 + 5 must be 15", 50, tester.suma(10, 5));
